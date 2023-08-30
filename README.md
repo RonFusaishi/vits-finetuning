@@ -9,11 +9,9 @@ See [vits-finetuning](https://colab.research.google.com/drive/13FF2pBWxj9rMR1SjI
 # How to use
 (Suggestion) Python == 3.7
 
-Only Japanese datasets can be used for fine-tuning in this repo.
+Only English datasets can be used for fine-tuning in this repo.
 ## Clone this repository
-```sh
-git clone https://github.com/SayaSS/vits-finetuning.git
-```
+
 ## Install requirements
 ```sh
 pip install -r requirements.txt
