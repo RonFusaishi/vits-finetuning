@@ -1,4 +1,3 @@
-text cleaner from https://github.com/CjangCjengh/vits
 
 # How to use
 (Suggestion) Python == 3.7
