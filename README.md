@@ -1,11 +1,5 @@
 text cleaner from https://github.com/CjangCjengh/vits
 
-original repo: https://github.com/jaywalnut310/vits
-
-## Online training and inference
-### colab
-See [vits-finetuning](https://colab.research.google.com/drive/13FF2pBWxj9rMR1SjI_JpVD6mTRN-kq--?usp=share_link)
-
 # How to use
 (Suggestion) Python == 3.7
 
